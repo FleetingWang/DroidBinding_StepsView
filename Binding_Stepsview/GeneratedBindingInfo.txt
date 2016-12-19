@@ -1,0 +1,9 @@
+Binding for:
+com.anton46:stepsview:0.0.2
+
+Dependencies:
+
+stepsview-0.0.2.aar,    Path=C:\Users\wtffl\.gradle\caches\modules-2\files-2.1\com.anton46\stepsview\0.0.2\e460aa7b5103bc0e9af017e19bec443b2ecb3684\stepsview-0.0.2.aar
+	appcompat-v7-22.2.0.aar,    Path=D:\android-sdk\extras\android\m2repository\com\android\support\appcompat-v7\22.2.0\appcompat-v7-22.2.0.aar
+	support-annotations-22.2.0.jar,    Path=D:\android-sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar
+	support-v4-22.2.0.aar,    Path=D:\android-sdk\extras\android\m2repository\com\android\support\support-v4\22.2.0\support-v4-22.2.0.aar

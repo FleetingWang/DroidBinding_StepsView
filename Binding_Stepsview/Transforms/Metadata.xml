@@ -1,0 +1,5 @@
+<metadata>
+  <!-- namespaces -->
+  <attr path="/api/package[@name='com.anton46.stepsview']" name="managedName">DroidStepsView</attr>
+
+</metadata>
